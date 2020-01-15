@@ -1,1 +1,1 @@
-LaTex Files for Operations Research
+LaTeX Files for Operations Research
